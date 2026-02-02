@@ -1,5 +1,5 @@
 # Richard Lam's Portfolio
-Data projects, course completions and certificates are on the list in my portfolio.
+All projects, course completions and certificates are on the list in my portfolio.
 
 ## Certificates
 
