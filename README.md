@@ -51,12 +51,12 @@ Data projects, course completions and certificates are on the list in my portfol
 
 - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/DBVFJR2L2S5P) | Coursera | October 2025
 
-- [Generative AI: Elevate Your Data Science Career](http://coursera.org/account/accomplishments/certificate/9JO2MLV7ACQ9)
+- [Generative AI: Elevate Your Data Science Career](http://coursera.org/account/accomplishments/certificate/9JO2MLV7ACQ9) | Coursera | October 2025
 
-- [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/NGKXL6DH1K7I)
+- [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/NGKXL6DH1K7I) | Coursera | October 2025
 
 ## Projects
 
-- [IBM Data Analyst Capstone Project](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/Exercise%20and%20Project)
+- [IBM Data Analyst Capstone Project](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/Exercise%20and%20Project) | Coursera | May 2025
 
-- [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone/Exercise%20and%20Project)
+- [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone/Exercise%20and%20Project) | Coursera | October 2025
