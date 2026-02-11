@@ -17,7 +17,7 @@ All projects, course completions and certificates are on the list in my portfoli
 
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) | Coursera in IBM | June 2025
 
-- [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) | Coursera in IBM | June 2025
+- [Data Analysis and Visualization Foundations Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) | Coursera in IBM | June 2025
 
 - [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) | Coursera in IBM | June 2025
 
